@@ -31,4 +31,4 @@ Los modelos usados en este proyecto pueden obtenerse directamente desde la **pla
 
 <img src="assets/Imagen1.png" alt="Skybox" width="400">
 <img src="assets/Imagen2.png" alt="Animación" width="600">
-
+<img src="2025-09-09-21-43-53-_online-video-cutter.com_.gif" alt="Vista del personaje" width="600"/>
