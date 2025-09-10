@@ -3,7 +3,7 @@
 Este proyecto es una implementación práctica en **C++ y OpenGL** inspirada en motores de videojuegos modernos.  
 La escena combina diferentes técnicas avanzadas de renderizado y animación, integrando un entorno interactivo en tercera persona.
 
-LINK: https://drive.google.com/drive/folders/1nSqXW7A_XEWb7iyGt-jln356bp04bOSu?usp=sharing
+LINK: https://drive.google.com/drive/folders/1bJFFIigBOesBkKSZ7a-965D0zEIPufaG?usp=sharing
 
 ## ✨ Características principales
 
